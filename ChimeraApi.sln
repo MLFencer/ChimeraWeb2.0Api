@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChimeraApi", "ChimeraApi\ChimeraApi.csproj", "{8FE7A978-EF54-4A55-9A9E-0019408B904D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FE7A978-EF54-4A55-9A9E-0019408B904D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE7A978-EF54-4A55-9A9E-0019408B904D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE7A978-EF54-4A55-9A9E-0019408B904D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE7A978-EF54-4A55-9A9E-0019408B904D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D05FA810-2776-408A-B1CF-6F1B93B0DB8A}
+	EndGlobalSection
+EndGlobal

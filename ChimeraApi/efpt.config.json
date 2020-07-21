@@ -1,0 +1,51 @@
+﻿{
+   "ContextClassName": "ChimeraContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Data\/EF",
+   "ProjectRootNamespace": "ChimeraApi",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ForumPostCategories]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ForumPosts]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[StatusTypes]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[UserData]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[UserRoles]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[UserRoleTypes]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Users]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}
